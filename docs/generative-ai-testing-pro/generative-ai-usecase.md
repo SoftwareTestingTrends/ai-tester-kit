@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: ⚙️ Unlocking Testing Success through Generative AI
+title: ⚙️ Achieving Testing Success with Generative AI
 author: michael
 ---
 
