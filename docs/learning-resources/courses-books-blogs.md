@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 👩‍🏫 Courses, Books, Talks & Articles
+# 👩‍🏫 Courses, Books, Talks & More
 
 A curated list of online courses, recommendations for key books and articles that provide in-depth knowledge of AI testing concepts.
 

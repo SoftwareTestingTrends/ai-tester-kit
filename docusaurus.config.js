@@ -90,11 +90,23 @@ const config = {
         style: "dark",
         links: [
           {
-            title: "Docs",
+            title: "Popular Docs",
             items: [
               {
-                label: "AI Testing",
-                to: "/docs/intro",
+                label: "AI Testing Prompt Book",
+                to: "/docs/generative-ai-testing-pro/generative-ai-prompt-library",
+              },
+              {
+                label: "AI Testing Roadmap",
+                to: "/docs/ai-testing-career/ai-test-engineer-roadmap/roadmap-intro",
+              },
+              {
+                label: "AI Fundamentals Roadmap",
+                to: "/docs/ai-testing-career/ai-test-engineer-roadmap/ai-fundamentals-roadmap",
+              },
+              {
+                label: "Courses, Books, Talks & More",
+                to: "/docs/learning-resources/courses-books-blogs",
               },
             ],
           },

@@ -24,7 +24,7 @@ AI systems behave differently than traditional software. They learn and adapt, m
    * [Roadmap to become an AI Test Engineer](ai-testing-career/ai-test-engineer-roadmap/ai-test-engineer-roadmap.md)
 
 ### Learning Resources:
-  * [Courses, Books, Talks & Articles](learning-resources/courses-books-blogs.md): A curated list of online courses, webinars, key books and articles that provide in-depth knowledge of AI testing concepts.
+  * [Courses, Books, Talks & More](learning-resources/courses-books-blogs.md): A curated list of online courses, webinars, key books and articles that provide in-depth knowledge of AI testing concepts.
   * Practice Projects: Open-source projects where you can apply your skills and gain hands-on experience.
 
 ### Generative AI Applications:
