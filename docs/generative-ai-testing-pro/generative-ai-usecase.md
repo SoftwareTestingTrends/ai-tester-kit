@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 title: ⚙️ Use Case Creations with Claude AI
+author: michael
 ---
 
 - [Introduction](#introduction)
