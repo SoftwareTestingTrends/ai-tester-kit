@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: ⚙️ Use Case Creations with Claude AI
+title: ⚙️ Unlocking Testing Success through Generative AI
 author: michael
 ---
 
