@@ -23,6 +23,7 @@ sidebar_position: 3
 * [Carbonate](https://carbonate.dev/) - Write automated browser tests in plain English. Carbonate turns simple language driven instructions into end-to-end tests. 
 * [Meticulous](https://www.meticulous.ai/) - Cover the 1000s of edge cases of your application - without writing or maintaining a single test.
 * [DiffBlue](https://www.diffblue.com/) - Autonomous AI-powered unit test writing for Java programming language.
+* [Checkie.ai](https://checkie.ai/) - The AI agents check for bugs on your app for basic UI, UX, Accessibility, Usability, JavaScript errors, and basic GDPR and OWASP issues. The agents also check your app in the most common screen sizes. 
 
 ## Let's Watch
 ### ChatGPT

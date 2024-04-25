@@ -1,7 +1,8 @@
 ---
-sidebar_position: 2
-title: ⚙️ Achieving Testing Success with Generative AI
-author: michael
+slug: generative-ai
+title: "Generative AI: Use Case Creations with Claude AI 🤖"
+authors: [michael]
+tags: [aitesting, generative-ai]
 ---
 
 - [Introduction](#introduction)

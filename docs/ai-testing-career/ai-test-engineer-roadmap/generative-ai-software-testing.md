@@ -41,6 +41,7 @@ sidebar_position: 3
 ## Learning Resources  
 
 * [Coursera: Generative AI for Everyone](https://www.coursera.org/learn/generative-ai-for-everyone)
+* [Generative AI with Large Language Models](https://www.coursera.org/learn/generative-ai-with-llms)
 * [FreeCodeCamp: Generative AI Full Course – Gemini Pro, OpenAI, Llama, Langchain, Pinecone, Vector Databases & More](https://www.youtube.com/watch?v=mEsleV16qdo)
   
 * **Chatbots:** ChatGPT, Google Gemini, Microsoft Copilot, Claude, Llama, Mistral, Mixtral, Qwen

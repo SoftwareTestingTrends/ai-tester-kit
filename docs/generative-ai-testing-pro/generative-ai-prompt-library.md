@@ -3,7 +3,7 @@ sidebar_position: 1
 title: ⚙️ Prompt Library for Testing Tasks
 ---
 
-# Prompt Library for Testing Tasks
+# ⚙️ Prompt Library for Testing Tasks
 
 Empower your testing with a curated library of prompts to think outside the box and craft comprehensive testing strategies. 
 
