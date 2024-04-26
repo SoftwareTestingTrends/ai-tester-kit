@@ -1,6 +1,6 @@
 ---
-sidebar_position: 1
-title: ⚙️ Prompt Enginering
+sidebar_position: 2
+title: ⚙️ Prompt Engineering
 ---
 
 ## ⚙️ What is a Prompt?

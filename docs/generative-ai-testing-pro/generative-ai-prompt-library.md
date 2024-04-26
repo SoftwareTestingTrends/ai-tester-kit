@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 title: ⚙️ Prompt Library for Testing Tasks
 ---
 **Table of Contents:**

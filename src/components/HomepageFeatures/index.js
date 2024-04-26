@@ -15,7 +15,7 @@ const FeatureList = [
     link: "./docs/ai-testing-career/ai-test-engineer-roadmap/roadmap-intro",
   },
   {
-    title: "Level Up Your Testing Workflow",
+    title: "Generative AI Testing Pro",
     Svg: require("@site/static/img/generative-ai.svg").default,
     description: (
       <>
@@ -23,7 +23,7 @@ const FeatureList = [
         test coverage and efficiency.
       </>
     ),
-    link: "/docs/generative-ai-testing-pro/generative-ai-powered-testing-hacks",
+    link: "/docs/generative-ai-testing-pro/introduction",
   },
   {
     title: "Learning Resources",
@@ -34,7 +34,7 @@ const FeatureList = [
         knowledge of AI testing concepts and technologies.
       </>
     ),
-    link: "docs/learning-resources/courses-books-blogs",
+    link: "docs/learning-resources/introduction",
   },
 ];
 
