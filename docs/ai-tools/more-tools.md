@@ -13,12 +13,17 @@ sidebar_position: 3
 * [Le Chat Mistral](https://chat.mistral.ai/chat) - Chat with Mistral AI's cutting edge language models.
 * [Poe AI](https://poe.com/login) - Talk to ChatGPT, GPT-4, Claude 3 Opus, DALLE 3, and millions of others - all on Poe.
 
-## AI Dev Tools
+## AI-Assisted Programming Tools
+* [GitHub Copilot](https://github.com/features/copilot) - A general-purpose AI assistant that helps developers code faster by suggesting entire lines or functions based on context.
+* [Gemini Code Assist](https://cloud.google.com/products/gemini/code-assist?hl=en) - AI-assisted application development tool by Google.
+* [Tabnine](https://www.tabnine.com/) - Another AI coding assistant similar to Copilot, offering code completion and suggestions. It can also learn from your personal coding style and preferences.
+* [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - An AI assistant specifically designed for development within the Amazon Web Services (AWS) ecosystem.  It suggests code based on AWS APIs and services, making it ideal for building AWS applications.
 * [OpenDevin](ai-tools/dev-tool-opendevin.md) - An open-source project aiming to replicate Devin, an autonomous AI software engineer who is capable of executing complex engineering tasks.
 * [Cody AI](https://sourcegraph.com/cody) - Cody is a coding AI assistant that uses AI and a deep understanding of your codebase to help you write and understand code faster.
-* [CodiumAI](https://www.codium.ai/) - An IDE extension that interacts with the developer to generate meaningful tests and code explanations for busy devs.
+* [Codeium](https://www.codeium.ai/) - An IDE extension that interacts with the developer to generate meaningful tests and code explanations for busy devs.
+* [Rubberduck AI](https://github.com/rubberduck-ai/rubberduck-vscode) - AI chat in the Visual Studio Code side bar. Rubberduck can generate code, edit code, explain code, generate tests, find bugs, diagnose errors, and more. You can even add your own conversation templates. Rubberduck requires an OpenAI API key. 
       
-## AI Testing Tools
+## AI-Assisted Testing Tools
 * [OctoMind](https://octomind.dev/) - Give a URL and with the power of AI OvtoMind discovers, generates, runs and auto-fix your e2e tests in Playwright.
 * [Carbonate](https://carbonate.dev/) - Write automated browser tests in plain English. Carbonate turns simple language driven instructions into end-to-end tests. 
 * [Meticulous](https://www.meticulous.ai/) - Cover the 1000s of edge cases of your application - without writing or maintaining a single test.

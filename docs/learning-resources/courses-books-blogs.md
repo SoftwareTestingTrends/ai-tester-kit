@@ -7,6 +7,7 @@ sidebar_position: 1
 A curated list of online courses, recommendations for key books and articles that provide in-depth knowledge of AI testing concepts.
 
 ## Articles
+* [Developer sentiment around AI/ML](https://stackoverflow.co/labs/developer-sentiment-ai-ml/)
 * [ML Model Testing: Refine Your ML Models, One Test At A Time](https://censius.ai/blogs/model-testing-types-methods-and-best-practices)
 * [How to Test Machine Learning Models](https://deepchecks.com/how-to-test-machine-learning-models/)
 * [Comprehensive Guide to ML Model Testing and Evaluation](https://www.testingxperts.com/blog/ml-testing)

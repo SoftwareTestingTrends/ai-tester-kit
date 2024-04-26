@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 title: ⚙️ Prompt Library for Testing Tasks
 ---
 **Table of Contents:**
@@ -9,6 +9,10 @@ title: ⚙️ Prompt Library for Testing Tasks
 - [Tracking the Release Process](#tracking-the-release-process)
 - [Gherkin Format (BDD)](#gherkin-format-bdd)
 - [Automated Tests](#automated-tests)
+- [Creating Sample Data](#creating-sample-data)
+- [Write SQL Queries](#write-sql-queries)
+- [GitHub Action Workflow](#github-action-workflow)
+- [Bash/Shell Commands](#bashshell-commands)
 - [Selecting the right tool for a given task](#selecting-the-right-tool-for-a-given-task)
 - [Analyze user-submitted reviews/feedback](#analyze-user-submitted-reviewsfeedback)
 
@@ -153,6 +157,12 @@ Please create a thorough set of unit tests using <framework_type> framework for 
 Please perform a detailed review of the provided unit tests and recommend improvements. Additionally, identify any additional tests that should be included. Ensure that the unit tests cover a wide range of edge cases and thoroughly test the handling of invalid inputs.
 ```
 
+**⚙️ Create a Starter Codebase and File Structure for Mobile App Automation**
+
+```
+Create a starter codebase for an automation framework targeting mobile apps, utilizing WebdriverIO and Appium. Additionally, outline the recommended general file structure for organizing the framework components.
+```
+
 **⚙️ Writing Automation Script for the given feature**
 
 ```
@@ -194,6 +204,14 @@ Q1: Is it possible to automate the following scenarios? If yes, please also shar
 You are a Knowledgeable Automation Developer knowing Appium, WebDriverIO, BrowserStack, AppliTools Eye, and Mobile Apps Automation. I am getting an error when running the test. Help me resolve the error. The error is [error_detail]
 ```
 
+**⚙️ Adding Code Comments**
+
+```
+Provide clear and concise comments for the code snippet below, following best coding practices for readability and understanding.
+
+<code_goes_here>
+```
+
 **⚙️ Writing JMeter tests**
 
 ```
@@ -206,6 +224,50 @@ Path: /calculate
 Port: 80
 ```
 
+## Creating Sample Data
+
+**⚙️ Generate user data & corresponding email addresses**
+```
+Develop a Python script to generate sample data for 100 users including user ID, full name along with corresponding email addresses, and subsequently save this data to a CSV file.
+```
+
+**⚙️ Generate product data & corresponding details**
+```
+Generate sample data for 10 products, each including product ID, name, price, and category. 
+```
+
+## Write SQL Queries
+```
+Create a SQL INSERT statement to populate the Feedback table with data, including feedback ID, customer ID, and comments fields.
+```
+
+## GitHub Action Workflow
+
+**⚙️ GitHub Actions workflow for a Dockerized application**
+
+```
+Develop a GitHub Actions workflow template tailored for a Dockerized application. This template should include sequential steps for building the Docker image, pushing it to Docker Hub for storage, and deploying it to a Kubernetes cluster for execution.
+```
+
+**⚙️ GitHub Actions workflow for a Mobile application**
+
+```
+Create a GitHub Actions workflow template specifically designed for a React Native mobile application. This template should outline steps for installing dependencies, building the app, and uploading the resulting APK file to a designated folder on Google Drive.
+```
+
+## Bash/Shell Commands
+
+**⚙️ Redirect the output of a command to a file**
+
+```
+Explain how to redirect the output of a command to a file using a bash command.
+```
+
+**⚙️ Modifying the permissions of a file**
+
+```
+Which bash command should I use to modify the permissions of a file?
+```
 ## Selecting the right tool for a given task
 ```
 I want to test a software application's performance. What are the recommeded open source tools available in the market?
