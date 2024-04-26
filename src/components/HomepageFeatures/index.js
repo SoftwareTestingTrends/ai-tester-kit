@@ -12,9 +12,10 @@ const FeatureList = [
         skilled AI Test Engineer.
       </>
     ),
+    link: "./docs/ai-testing-career/ai-test-engineer-roadmap/roadmap-intro",
   },
   {
-    title: "Generative AI Testing Pro",
+    title: "Level Up Your Testing Workflow",
     Svg: require("@site/static/img/generative-ai.svg").default,
     description: (
       <>
@@ -22,6 +23,7 @@ const FeatureList = [
         test coverage and efficiency.
       </>
     ),
+    link: "/docs/generative-ai-testing-pro/generative-ai-powered-testing-hacks",
   },
   {
     title: "Learning Resources",
@@ -32,19 +34,34 @@ const FeatureList = [
         knowledge of AI testing concepts and technologies.
       </>
     ),
+    link: "docs/learning-resources/courses-books-blogs",
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({Svg, title, description, link}) {
+  const svgContent = (
+    <div className="text--center">
+      <Svg className={styles.featureSvg} role="img" />
+    </div>
+  );
+
+  const textContent = (
+    <div className="text--center padding-horiz--md">
+      <Heading as="h3">{title}</Heading>
+      <p>{description}</p>
+    </div>
+  );
+
   return (
-    <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
-      <div className="text--center padding-horiz--md">
-        <Heading as="h3">{title}</Heading>
-        <p>{description}</p>
-      </div>
+    <div className={clsx("col col--4")}>
+      {link ? (
+        <a href={link} rel="noopener noreferrer">
+          {svgContent}
+        </a>
+      ) : (
+        svgContent
+      )}
+      {textContent}
     </div>
   );
 }
