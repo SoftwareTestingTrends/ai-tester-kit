@@ -9,3 +9,7 @@ Here, you'll discover the power of generative AI in revolutionizing the way we t
 
 Additionally, we'll guide you on how to Level Up Your Testing Workflow by seamlessly integrating generative AI into your existing practices.
 
+So, let's dive in:
+* [Prompt Engineering](generative-ai-prompt-engineering.md)
+* [Prompt Library for Testing Tasks](generative-ai-prompt-library)
+* [Level Up Your Testing Workflow](generative-ai-powered-testing-hacks)

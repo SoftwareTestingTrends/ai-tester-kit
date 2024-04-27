@@ -3,7 +3,21 @@ sidebar_position: 6
 ---
 
 # 🛣️ Programming Proficiency
-Let's check out the learning path for Python & JS
+
+## AI Development Frameworks
+* **Apache MXNet:** A versatile open-source deep learning framework known for its speed and flexibility. It supports multiple languages and allows for efficient model building across research and production environments. 
+  
+* **CNTK (Microsoft Cognitive Toolkit):** An open-source deep learning framework from Microsoft, strong in commercial settings. It excels at building intelligent applications and scales well for large datasets. 
+  
+* **IBM Watson Studio:** A cloud-based platform offering a one-stop shop for data science tasks, including machine learning. It integrates well with IBM Cloud services and provides a user-friendly interface for building and deploying models.
+  
+* **TensorFlow:** A popular open-source deep learning framework by Google, with a large community and extensive resources. It's a powerful choice for a wide range of deep learning projects.
+  
+* **Keras:** A user-friendly API that simplifies building and training deep learning models. It often sits on top of frameworks like TensorFlow, making deep learning more approachable for beginners.  
+  
+* **PyTorch:** A powerful open-source deep learning library known for its flexibility and dynamic computation graph. It's popular in research for its ease of experimentation and debugging complex neural networks.
+  
+* **scikit-learn:** A powerful Python library focused on traditional machine learning algorithms. It offers a wide range of well-documented functions for tasks like classification, regression, and clustering, making it a great choice for beginners or quick prototyping.
 
 ## Learning Python
 ### The Essential Foundations
@@ -48,16 +62,8 @@ Let's check out the learning path for Python & JS
 3. **Data Manipulation**
     * NumPy
     * Pandas
-4. **Machine learning**
-    * Scikit-learn 
 
-**How to Learn Effectively**
-
-* **Practice, Practice, Practice:**  Coding is a skill; the more you do it, the better you get!
-* **Start with small projects:** Build simple things to solidify concepts.
-* **Don't be afraid to ask questions:** There are great communities online to help.  
-
-**Resources**
+**Recommended Resources**
 
 * [Scrimba: Free Course - Learn Python](https://scrimba.com/learn/python)
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
@@ -104,16 +110,21 @@ Let's check out the learning path for Python & JS
 
 10. **Node.js:**  If you want to create server-side components for your AI projects or potentially run generative models locally.
 
------
-
-### Developing Your Own AI Product
-
-* **Frontend Frameworks (Optional but Highly Recommended):** Pick one to streamline your work:
+11. **Frontend Frameworks (Optional but Highly Recommended):** Pick one to streamline your work:
     * React: Component-based, excellent for dynamic AI interfaces.
     * Vue.js: Approachable, great for smaller projects or prototypes.
     * Svelte: Newer, highly performant option.
 
-* **UI Design & UX Considerations:**  Make sure your interface is clear and facilitates intuitive interaction with the AI models.
+**Recommended Resources**
+
+* [Scrimba: Free Course - Learn JavaScript](https://scrimba.com/learn/learnjavascript)
+* [Scrimba: Free Course - Introduction to ES6+](https://scrimba.com/learn/introtoes6)
+* [The Odin Project: Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript)
+* [Mozilla Developer Network (MDN): JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+-----
+
+## Developing Your Own AI Product
 
 **Example Generative AI Projects**
 
@@ -122,18 +133,15 @@ Let's check out the learning path for Python & JS
 * **Image Manipulation with AI:** Build an interface to send prompts to an image generation AI, displaying results, and allowing for user modifications.
 * **Code Assistant:** Explore building a tool using a code-generation AI to assist with writing JavaScript functions.
 
-**Advanced Concepts (Optional)**
+**Advanced Concepts**
 * **Data Pre-processing:** Learn techniques to prepare data suitable as input for your generative models to get the best results. 
 * **Model Fine-Tuning (If Supported):**  Some AI tools allow fine-tuning their models on your data for even more tailored output.
 
------
+**Recommended Resources**
+* [Scrimba: Free Course - Prompt Engineering for Web Developers](https://scrimba.com/learn/promptengineering)
+* [Scrimba: Free Course - Intro to AI Engineering](https://scrimba.com/learn/introtoaiengineering)
+* [Scrimba: Free Course - Learn to code with AI](https://scrimba.com/learn/aicoding)
+* [Scrimba: Free Course - Learn OpenAI's Assistants API](https://scrimba.com/learn/openaiassistants)
+* [Scrimba: Free Course - The Official LangChain.js Course](https://scrimba.com/learn/langchain)
 
-### Learning Resources
 
-* **JavaScript Courses:**  
-    * Codecademy, FreeCodeCamp, Udemy - many options available!
-* **The Odin Project:** ([https://www.theodinproject.com/](https://www.theodinproject.com/))
-* **Mozilla Developer Network (MDN):** ([https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript))
-* **AI Libraries Documentation:**  Look on the official websites of the libraries you choose.
-* **Generative AI API References:** The providers will have guides on how to interact with their models.
-* **Project Tutorials:** Find  tutorials for building AI-powered apps specifically with JavaScript.

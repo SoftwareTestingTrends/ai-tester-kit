@@ -9,6 +9,7 @@ sidebar_position: 4
 * **What is AI?** Defining AI, its different types (narrow, general, super), and core concepts.
 * **Problem Types AI Solves:** Classification, regression, clustering, recommendation, etc.
 * **History of AI:**  Key milestones and breakthroughs.
+* **AI Hardware Requirements:** Processors for AI, AI as a Service (AIaaS)
 
 **2. Mathematics for AI**
 * **Linear Algebra:** Vectors, matrices, linear transformations. Essential for manipulating data and understanding model weights.
@@ -55,12 +56,13 @@ sidebar_position: 4
 4. **Gradient Descent:** An optimization algorithm common for training many ML models, understanding the basics gives insights into how models learn.
      
 
+
 ----------------
 
 ## Learning Resources  
 
 **AI Fundamentals**   
-   * [Introduction to AI](ai-notes/intro-to-ai.md)
+   * [Introduction to AI](../../understanding-ai/intro-to-ai.md)
    * [Coursera: AI For Everyone](https://www.coursera.org/learn/ai-for-everyone?)
    * [YouTube - Code.org: How AI Works](https://www.youtube.com/playlist?list=PLzdnOPI1iJNeehd1RXhnVMBFi1WhWLx_Y)
    * [Udacity: AI Fundamentals](https://www.udacity.com/course/ai-fundamentals--ud099)
@@ -70,22 +72,20 @@ sidebar_position: 4
    * [CS50's Introduction to Artificial Intelligence with Python 2023](https://www.youtube.com/playlist?list=PLhQjrBD2T381PopUTYtMSstgk-hsTGkVm)
    * [YouTube: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.youtube.com/playlist?list=PLmp4AHm0u1g3evuqj8zX3q75GHjfAwOLs))
    
-**Neural Networks and Deep Learning:**   
+**Neural Networks and Deep Learning**   
    * [Online book by Michael Nielsen: Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
    * [The basics of neural networks, and the math behind how they learn](https://www.3blue1brown.com/topics/neural-networks)
    * [Gradient descent, how neural networks learn](https://www.youtube.com/watch?v=IHZwWFHWa-w)
  
- **Natural Language Processing:**    
+ **Natural Language Processing**    
    * [HuggingFace: NLP Course](https://huggingface.co/learn/nlp-course/)
-
-
 
 **Open Source AI**  
    * [How to Get Started with Hugging Face – Open Source AI Models and Datasets](https://www.freecodecamp.org/news/get-started-with-hugging-face/)
  
- **Specializations:**  
+ **Specializations**  
   * [Coursera: Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?)
    
-**AI Communities:**  
+**AI Communities**  
    * [Kaggle: Machine Learning & Data Science community](https://www.kaggle.com/) For datasets and learning competitions.
    * [HuggingFace](https://huggingface.co/welcome): An AI community focused on Open Source Models, Datasets & Projects.

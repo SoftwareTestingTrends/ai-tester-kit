@@ -1,6 +1,6 @@
 ---
 sidebar_position: 3
-title: ⚙️ Prompt Library for Testing Tasks
+title: 🤖 Prompt Library for Testing Tasks
 ---
 **Table of Contents:**
 - [Test Strategy \& Planning](#test-strategy--planning)

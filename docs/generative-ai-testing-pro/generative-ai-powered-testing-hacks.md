@@ -1,12 +1,10 @@
 ---
 sidebar_position: 4
-title: ⚙️ Level Up Your Testing Workflow
+title: 🤖 Level Up Your Testing Workflow
 author: ambreen
 ---
 
-# ⚙️ Level Up Your Testing Workflow 
-
-## ⚙️ Define Testing Approach with AI-Powered Mind maps!
+## Define Testing Approach with AI-Powered Mind maps!
 
 This video reveals a time-saving technique using AI and mind mapping tools to create a comprehensive testing approach in MINUTES!
 

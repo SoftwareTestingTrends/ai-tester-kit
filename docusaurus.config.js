@@ -23,7 +23,7 @@ const config = {
   organizationName: "softwaretestingtrends", // Usually your GitHub org/user name.
   projectName: "ai-tester-kit", // Usually your repo name.
 
-  onBrokenLinks: "ignore",
+  onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
 
   // Even if you don't use internationalization, you can use this field to set
