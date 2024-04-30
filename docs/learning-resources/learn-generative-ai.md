@@ -1,8 +1,8 @@
 ---
-sidebar_position: 3
+sidebar_position: 6
 ---
 
-# 👩‍🏫 Learn Generative AI
+# 🎓 Generative AI
 
 * **Courses:**
   * [Coursera: Generative AI for Everyone](https://www.coursera.org/learn/generative-ai-for-everyone)

@@ -62,7 +62,7 @@ sidebar_position: 4
 ## Learning Resources  
 
 **AI Fundamentals**   
-   * [Introduction to AI](../../understanding-ai/intro-to-ai.md)
+   * [Introduction to AI](../../learning-resources/intro-to-ai.md)
    * [Coursera: AI For Everyone](https://www.coursera.org/learn/ai-for-everyone?)
    * [YouTube - Code.org: How AI Works](https://www.youtube.com/playlist?list=PLzdnOPI1iJNeehd1RXhnVMBFi1WhWLx_Y)
    * [Udacity: AI Fundamentals](https://www.udacity.com/course/ai-fundamentals--ud099)
@@ -87,5 +87,5 @@ sidebar_position: 4
   * [Coursera: Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?)
    
 **AI Communities**  
-   * [Kaggle: Machine Learning & Data Science community](https://www.kaggle.com/) For datasets and learning competitions.
+   * [Kaggle](https://www.kaggle.com/) Kaggle is the world’s largest data science and machine learning community. More than ten million registered users visit Kaggle to learn, find data, compete, and collaborate on the cutting edge of machine learning.
    * [HuggingFace](https://huggingface.co/welcome): An AI community focused on Open Source Models, Datasets & Projects.

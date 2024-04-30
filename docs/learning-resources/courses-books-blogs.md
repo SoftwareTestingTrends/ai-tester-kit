@@ -1,10 +1,13 @@
 ---
-sidebar_position: 2
+sidebar_position: 5
 ---
 
-# 👩‍🏫 Courses, Books, Talks & More
+# 🎓 Courses, Books, Talks & More
 
 A curated list of online courses, recommendations for key books and articles that provide in-depth knowledge of AI testing concepts.
+
+## Learning Platforms:
+* [Kaggle: Gain the skills you need to do independent data science projects.](https://www.kaggle.com/learn)
 
 ## Articles
 * [Developer sentiment around AI/ML](https://stackoverflow.co/labs/developer-sentiment-ai-ml/)

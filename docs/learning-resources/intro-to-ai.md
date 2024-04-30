@@ -1,6 +1,6 @@
 ---
-sidebar_position: 1
-title: 🧠 AI Overview
+sidebar_position: 2
+title: 🎓 AI Overview
 ---
 
 Artificial intelligence (AI) is a branch of computer science that deals with the creation of intelligent agents, which are systems that can reason, learn, and act autonomously. 
