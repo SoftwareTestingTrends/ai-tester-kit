@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 19
 ---
 
 # 🎓 Courses, Books, Talks & More
