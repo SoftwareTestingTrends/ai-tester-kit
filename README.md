@@ -2,7 +2,7 @@ Welcome to AI Tester's Kit 👋
 
 This repository is your comprehensive guide to leveraging Artificial Intelligence (AI) to revolutionize your software testing and quality assurance (QA) practices. 
 
-Visit the [published version](https://aitesterkit.netlify.app/) to view the content and learn how AI is shaping the future of software testing!
+Visit the [published version](https://aitesterkit.com/) to view the content and learn how AI is shaping the future of software testing!
 
 Here's what you'll find:
 
