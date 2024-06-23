@@ -1,4 +1,8 @@
 {
   "label": "🛣️ AI Testing Career",
-  "position": 4
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Let's Explore AI Testing Career Paths..."
+  }
 }

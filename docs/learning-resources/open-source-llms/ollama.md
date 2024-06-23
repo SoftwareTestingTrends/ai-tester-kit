@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 🎓 Run LLMs on your local with Ollama
+# 🎓 Run LLMs On Your Local With Ollama
 
 If you are someone using LLMs like ChatGPT or Google Gemini and feel concerned about the data you share during chats, we have good news. Now you can install powerful large language models on your own computer, and your data will never leave your system. It's also absolutely free, so you don’t need to worry about paying monthly subscription fees to use these powerful AI services. Meet Ollama... 
 
