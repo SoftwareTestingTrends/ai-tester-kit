@@ -121,12 +121,12 @@ conda activate ./venv
 3. **Install Dependencies:**
 Finally, install the dependencies. You can do this in two ways: 
 
-a. **By installing specific packages directly**: 
+* **By installing specific packages directly**: 
 ```sh
 pip install crewai==0.28.8 crewai_tools==0.1.6 langchain_community==0.0.29
 ```
 
-b. **Using a requirements.txt File:**
+* **Using a requirements.txt File:**
 This file will list all the dependencies your project needs. You can create it using a text editor and add the required packages. 
 
 ```txt
