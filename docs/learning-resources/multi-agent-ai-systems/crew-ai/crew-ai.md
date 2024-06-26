@@ -4,17 +4,17 @@ Imagine a group of intelligent robots working together seamlessly like a crew. C
 
 Today, we'll build a Career councelling team using crewAI. This app helps recent graduates navigate the job search process by analyzing their skills, identifying suitable career paths, and providing personalized job recommendations. By default, CrewAI uses the OpenAI API when querying the model. You can also use a local model through Ollama or LM Studio.
 
-Before we start writing any code, let's first understand some basic concepts.
+Before we start writing any code, let's first understand some basic concepts...
 
 ## What are AI Agents?
 AI agents, also known as intelligent agents, are software programs that operate autonomously and are programmed to:
 
-- Perform tasks
+- Perform tasks  
   AI agents can handle various tasks, like searching for information, analyzing data, or managing schedules.
-- Make decisions
+- Make decisions  
   They can make decisions based on the information they have and the goals they are given.
-- Communicate with other agents
-  AI agents can talk to each other, sharing information and working together to complete tasks.
+- Communicate with other agents   
+  AI agents can talk to each other, share information and work together to complete tasks.
 
 To help them do their job, AI agents are equipped with some tools they can use whenever needed to get the best results.
 
@@ -24,15 +24,15 @@ To help them do their job, AI agents are equipped with some tools they can use w
 
 ### Agent's key attributes
 
-Now, let's explore the key attributes of an AI agent to understand what makes them effective team members.
+Now, let's explore the key attributes of an AI agent to understand what makes them effective team members:
 
-Role: Think of the role as the agent's job title. It defines the specific function of the agent within the team, determining what tasks it excels at and what it's best suited for. For example, an agent could be a "researcher" or a "data analyst".
+**Role:** Think of the role as the agent's job title. It defines the specific function of the agent within the team, determining what tasks it excels at and what it's best suited for.
 
-Goal: The goal is the agent's main objective. This is what guides its decision-making process, directing its actions and choices. For instance, the goal could be to "find the most relevant information" or "analyze data for trends."
+**Goal:** The goal is the agent's main objective. This is what guides its decision-making process, directing its actions and choices. For instance, the goal could be to "find the most relevant information" or "analyze data for trends."
 
-Backstory: The backstory provides contextual information about the agent's role and goal. This helps in understanding how the agent fits into the team and how it interacts with others. 
+**Backstory:** The backstory provides contextual information about the agent's role and goal. This helps in understanding how the agent fits into the team and how it interacts with others. 
 
-## Key elemenst of AI agents
+## Key elements of AI agents
 Now, we'll break down the key elements of AI agents to help you understand how they work and what makes them effective. Let's dive in!
 
 <div style={{ display: 'flex', justifyContent: 'center' }}>
@@ -77,7 +77,7 @@ Agents work independently and simultaneously on their tasks, coordinating throug
 
 ## App: Grad Launchpad: Your AI-powered Job Search Companion
 
-Now that we understand all the necessary concepts, let's start developing our career counseling team using CrewAI. This app helps recent graduates navigate the job search process by analyzing their skills, identifying suitable career paths, and providing personalized job recommendations.
+Now that we understand all the necessary concepts, let's start developing our career counselling team using CrewAI. This app helps recent graduates navigate the job search process by analyzing their skills, identifying suitable career paths, and providing personalized job recommendations.
 
 <div style={{ display: 'flex', justifyContent: 'center' }}>
   <img src={require('./app-career-counselling.jpeg').default} alt="AI Agent" style={{ width: '500px', height: 'auto', marginBottom: '30px' }} />
@@ -93,7 +93,7 @@ Our team will consist of four agents:
 
 4. **Interview Preparer**: This agent will assist in preparing for job interviews, offering tips and practice sessions to build confidence.
 
-We'll assign specific tasks to each of these agents to help us achieve our goal of providing the best career counseling services to new graduates. By working together, these agents will cover all aspects of the job search process, ensuring comprehensive support for our users.
+We'll assign specific tasks to each of these agents to help us achieve our goal of providing the best career counselling services to new graduates. By working together, these agents will cover all aspects of the job search process, ensuring comprehensive support for our users.
 
 ### Installation
 Let's walk through the steps to set up our environment and install the necessary tools for our CrewAI project.
@@ -107,12 +107,12 @@ conda create -p venv python==3.10
 This command will create a new Conda environment with a specific version of Python. Here is a step-by-step explanation of what happens when you run this command:
 
 * conda create: This is the base command used to create a new Conda environment.
-* -p venv: This option specifies the path where the new environment will be created. In this case, venv is the directory where the environment will be placed. The -p flag stands for "prefix," indicating that the environment should be created at the specified path rather than by name.
+* -p venv: This flag specifies the path where the environment should be created. Instead of naming the environment (with -n), you are providing a directory path.
 * python==3.10: This specifies the version of Python that should be installed in the new environment. In this case, Python 3.10.
 
 After the successful run of the command, you'll notice a new folder named 'venv' created in your root directory.
 
-1. **Activate the Virtual Environment:**
+2. **Activate the Virtual Environment:**
 Next, activate the virtual environment you just created by running:
 
 ```sh
@@ -143,17 +143,18 @@ pip install -r requirements.txt
 ### Setting Up Your Crew
 Now let's setup our crew. This process involves defining your agents, assigning them tasks, and then getting them to work together to achieve your goals. Here's how you can do it step by step:  
 
-1. Define Your Agents:
+**1. Define Your Agents:**  
 Start by defining the roles and goals of your agents. Each agent will have a backstory that defines his specific function within the team.
 
-2. Create Tasks for Your Agents:
+**2. Create Tasks for Your Agents:**  
 Create and assign specific tasks to each agent based on their roles. These tasks will help them achieve their goals.
 
-3. Instantiate Your Crew: Bring your agents together into a crew with a sequential process that outlines how they'll work together.
+**3. Instantiate Your Crew:**   
+Bring your agents together into a crew with a sequential process that outlines how they'll work together.
    
 In addition to the sequential process, you can use the hierarchical process, which allows specifying a custom manager or automatically assigns a manager to the defined crew to properly coordinate the planning and execution of tasks through delegation and validation of results.
 
-4. Kick It Off: 
+**4. Kick It Off:**  
 Finally, kick off the crew to start performing the tasks you've assigned. Your agents will collaborate, leveraging their memory capabilities for a successful project outcome.
 
 ### Inputs
